@@ -67,9 +67,9 @@ tex_template_la_mome = r"""\documentclass{letter}
     NOTE
     \vspace{.5cm}
     \textbf{Mode de paiement:} PAIMENTMODE\\
-    \textbf{Banque:} Société Générale\\
-    \textbf{SWIFT/BIC:} SGMBMAMC\\
-    \textbf{IBAN:} 022450000121002852215953\\
+    \textbf{Banque:} Crédit du MAROC\\
+    \textbf{SWIFT/BIC:} CDMAMAMC\\
+    \textbf{IBAN:} MA21221450000010103007050233\\
   \end{letter}
 \end{document}"""
 
